@@ -20,8 +20,8 @@ import java.util.TreeMap;
  */
 public class Cuenta {
     
-    public static final String ENTBANCARIASFILEPATH = "Profesores\\EntidadesBancarias.txt";
-    public static final String SUCRBANCARIASFILEPATH = "Profesores\\SucursalesBancarias.txt";
+    public static final String ENTBANCARIASFILEPATH = "..\\Profesores\\EntidadesBancarias.txt";
+    public static final String SUCRBANCARIASFILEPATH = "..\\Profesores\\SucursalesBancarias.txt";
     private double saldo;
 
     public Cuenta() {

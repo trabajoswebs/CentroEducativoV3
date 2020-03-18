@@ -96,7 +96,7 @@ public class CentroEducativoV3 {
         TablasCursos.cargaCursosAsignaturas(tmCCASIGNA);
 
         // CREAMOS UN FICHERO PARA GUARDAR LOS PROFESORES
-        File ruta = new File("Profesores\\");//crea un objeto con una ruta
+        File ruta = new File("Profesores");//crea un objeto con una ruta
         File fPersonas = new File(ruta, "Personas3.txt");//crea un objeto fichero en la ruta
 
         try {

@@ -21,7 +21,7 @@ import java.util.logging.Logger;
  * @author Acer
  */
 public class TablasCursos {
-    public static final String DIRECTORY =  "Profesores\\";
+    public static final String DIRECTORY =  "..\\Profesores\\";
     public static final String CAFILEPATH = DIRECTORY + "CursoAsignatura.txt";
     public static final String DTGENERALESFILENAME = "datosGenerales.txt";
     
