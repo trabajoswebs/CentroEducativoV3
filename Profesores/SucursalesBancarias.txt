@@ -1,0 +1,16 @@
+21000002,Elche Urbana 2
+21004231,Elche Urbana 1
+21004232,Elche Urbana 2
+21004233,Elche Urbana 2
+21004234,Elche Urbana 4
+00816781,Elche Urbana 1
+00816782,Elche Urbana 2
+00816783,Elche Urbana 3
+00816784,Elche Urbana 4
+14654561,Elche Urbana 1
+14654562,Elche urbana 2
+00811152,Alicante urbana 2
+00811153,Alicante Urbana 3
+20384441,Elche Urbana 1
+00492222,Elche Urbana 2
+00491111,Elche Urbana 1

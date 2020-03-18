@@ -1,0 +1,27 @@
+1SPROGRAM,Pogramacion Java
+1SINGLES,Ingles
+1SFOL,Formacion Laboral
+1SENTORNOS,Entornos de Desarrollo
+1EREDES,Redes Area Local
+1EOFIMA,Ofimatica
+1ESISOP,Sistemas Operativos
+1EFOL,Formacion Laboral
+1GREDES,Redes Area Local
+1GOFIMA,Ofimatica
+1GSISOP,Sistemas Operativos
+1GFOL,Formacion Laboral
+1GINGLES,Ingles
+1WPROGRAM,Programacion Java
+1WLENGMAR,Lenguaje de Marcas
+1WENTORNOS,Entornos de Desarrollo
+1WSISOPE,Sistemas Operativos
+1WFOL,Formacion Laboral
+1WINGLES,Ingles
+1SPROGRAM,Programacion Java
+1SLENGMAR,Lenguage de Marcas
+1SENTORNOS,Entornos de Desarrollo
+1SFOL,Formacion Laboral
+1SINGLES,INGLES
+2SENTORCLI,Entorno Cliente
+2SENTORSER,Entorno Servidor
+2SFOL,Formacion laboral
